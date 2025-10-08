@@ -1,4 +1,5 @@
 Stock Market Forecasting using Prophet
+
 This project demonstrates time series forecasting and financial analysis on Tesla stock price data utilizing the Prophet algorithm in Python.
 
 Project Overview
